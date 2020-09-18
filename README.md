@@ -1,0 +1,2 @@
+# Genesistask3
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d65368ee0b354f4395051e19ebbe6c65)](https://app.codacy.com/manual/krishnalalasa.k/Genesistask3?utm_source=github.com&utm_medium=referral&utm_content=stepin104594/Genesistask3&utm_campaign=Badge_Grade_Dashboard)
