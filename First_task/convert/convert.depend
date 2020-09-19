@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600451927 source:c:\users\renuk\documents\codeblocks\convert\main.c
+	<stdio.h>
+	"func.h"
+
+1600453141 source:c:\users\renuk\documents\codeblocks\convert\func.c
+	<stdio.h>
+
+1600453152 c:\users\renuk\documents\codeblocks\convert\func.h
+

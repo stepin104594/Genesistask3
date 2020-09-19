@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600486878 source:c:\users\renuk\documents\codeblocks\convertmini\main.c
+	<stdio.h>
+	"funct.h"
+
+1600486169 c:\users\renuk\documents\codeblocks\convertmini\funct.h
+
